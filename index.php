@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World,<strong> motherfuckers</strong>";
+echo "Olá, <strong>motherfuckers</strong>";
 ?>
